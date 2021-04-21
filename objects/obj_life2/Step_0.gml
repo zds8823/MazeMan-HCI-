@@ -1,0 +1,1 @@
+if (o_player.lifes == 1) instance_destroy();	
